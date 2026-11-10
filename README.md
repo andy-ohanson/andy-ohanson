@@ -13,7 +13,8 @@ A course-based lab exploring least privilege, ownership chaining, SQL injection,
 - Removed the vulnerable procedures after testing.
 
 **Tools:** Microsoft Azure SQL Database, T-SQL, Visual Studio Code  
-**Status:** Lab completed; portfolio repository being prepared.
+**Status:** Completed  
+[View project, SQL scripts, and test results](https://github.com/andy-ohanson/database-security)
 
 ## Current focus
 
